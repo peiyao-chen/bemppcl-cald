@@ -1,0 +1,1 @@
+docker run -it --name=silly_dog -v ~/project/bemppcl-cald:/root/shared/bemppcl-cald -p 8888:8888/tcp bempp/cl-notebook:latest
